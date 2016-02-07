@@ -19,4 +19,4 @@ jsmockito-jshamcrest-integration
 
 WebJar for jasmine-jsmockito-jshamcrest.
 This is an adaptor that integrates the jshamcrest and jsmockito frame works into the DOM window. It is built from the
-karma-jsmockito-jshamcrest plugin.
+[karma-jsmockito-jshamcrest](https://github.com/stephenhand/karma-jsmockito-jshamcrest) plugin.
