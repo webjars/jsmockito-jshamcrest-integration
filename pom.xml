@@ -29,7 +29,7 @@
 
     <artifactId>jsmockito-jshamcrest-integration</artifactId>
 
-    <version>0.0.6</version>
+    <version>0.0.7-SNAPSHOT</version>
 
     <name>jsmockito-jshamcrest-integration</name>
 
@@ -99,7 +99,7 @@
         <url>http://github.com/webjars/${project.artifactId}</url>
         <connection>scm:git:https://github.com/webjars/${project.artifactId}.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/${project.artifactId}.git</developerConnection>
-        <tag>jsmockito-jshamcrest-integration-0.0.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
